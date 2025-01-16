@@ -4,7 +4,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** 
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -68,7 +68,7 @@ O podcast deve ser curto
 (REGRAS NEGATIVAS)
 Não ultrapasse 5 minutos de duração
 
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Prompts de artes no `midjourney`
 
 /image a Disney Character as podcaster with microphone, earphone and Animation style ar 1:1
 
